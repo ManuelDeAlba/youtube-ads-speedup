@@ -1,6 +1,6 @@
 # Youtube ads speedup extension
 
-### Speed up youtube ads x16 times faster
+### Speed up youtube ads x16 times faster and skip them
 
 ## Installation
 
