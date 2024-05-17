@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Youtube ads speedup",
     "description": "Speed up youtube ads x16 times faster and skip them",
-    "version": "1.0",
+    "version": "1.0.1",
     "content_scripts": [
         {
             "js": ["scripts/content.js"],

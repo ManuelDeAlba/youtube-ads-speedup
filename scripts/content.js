@@ -29,7 +29,7 @@ function init(){
         console.log("Acción de anuncio", entries);
         
         // Guardamos la velocidad con la que el usuario está viendo el video
-        velocidad = video.playbackRate;
+        velocidadUsuario = video.playbackRate;
 
         // Este elemento se comparte entre el video normal y el anuncio, por lo tanto, afecta a los dos
         console.log("Acelerando anuncio");
